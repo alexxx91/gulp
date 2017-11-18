@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gulp"
+  },
+  "keywords": [
+    "sass",
+    "gulp"
+  ],
+  "author": "Alex",
+  "license": "ISC"
+}
